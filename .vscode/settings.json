@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5f985674-8aa0-4b96-a68a-6d1b85e8ed09/resourceGroups/by-tlmtestapi/providers/Microsoft.Web/sites/tlmtestapi",
+    "appService.deploySubpath": "."
+}
